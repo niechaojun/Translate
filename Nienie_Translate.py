@@ -7,7 +7,7 @@ import re
 import chardet
 import sys
 import os
-
+#code by nienie
 log = []
 
 def N_trans(q,fromLang,toLang):
